@@ -1,14 +1,17 @@
 body{
-background-color:black;
+background-color:blue;
 }
 nav{
     text-align: center;
     background-color: rgb(135, 135, 236);
-}
-#about{
-    background-color: #fff;
+    padding: 20px;
+    font-style: oblique;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
 }
 img{
     height: 200px;
     width: 200px;
+    float: right;
 }
+
