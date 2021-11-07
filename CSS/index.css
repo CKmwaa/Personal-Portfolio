@@ -1,9 +1,9 @@
 body{
-background-color:blue;
+background-color:#a2a2b1;
 }
 nav{
     text-align: center;
-    background-color: rgb(135, 135, 236);
+    background-color: #8787ec;
     padding: 20px;
     font-style: oblique;
     font-size: larger;
@@ -18,4 +18,7 @@ img{
 #about{
     text-align: center;
     padding-left: 400px;
+}
+footer{
+    margin-bottom: 0px;
 }
