@@ -19,7 +19,7 @@ img{
     text-align: center;
     padding-left: 10px;
 }
-.contact {
+.feedback {
 margin-left: 600px;
 }
 input[type=text], [type=email] {
@@ -30,7 +30,7 @@ input[type=text], [type=email] {
     height: 50px;
 }
 input[type=submit]{
-    border-radius: 20px;
+    border-radius: 50px;
     background-color: green;
     color: black;
     margin-left: 100px;
