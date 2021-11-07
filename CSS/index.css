@@ -1,7 +1,10 @@
 body{
-background-color:rgb(182, 182, 65);
+background-color:black;
 }
 nav{
     text-align: center;
     background-color: rgb(135, 135, 236);
+}
+#about{
+    background-color: #fff;
 }
