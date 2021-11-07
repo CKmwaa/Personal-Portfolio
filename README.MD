@@ -1,8 +1,10 @@
 # Personal Portfolio
-This website is a description of who I am and some projects I have ever done.
 
 ## Author
 Caleb Mwangi
+
+## Project Description 
+This website is a description of who I am, my hobbies, likes, skills and some projects I have ever done.
 
 ## Installation Instructions 
 Clone the project
