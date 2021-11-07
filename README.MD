@@ -12,6 +12,7 @@ cd into project folder
 Go to live server
 
 ## Live link
+https://ckmwaa.github.io/Personal-Portfolio/
 
 ## Requirements
 ​Either a computer,phone,tablet or an Ipad​
@@ -24,6 +25,7 @@ An access to the Internet​
 
 ## License
 ### MIT License
+
 
 Caleb Mwangi Copyright @ 2021 
 
