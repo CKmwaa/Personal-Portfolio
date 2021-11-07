@@ -7,9 +7,9 @@ Caleb Mwangi
 This website is a description of who I am, my hobbies, likes, skills and some projects I have ever done.
 
 ## Installation Instructions 
-Clone the project
-cd into project folder
-Go to live server
+* Clone the project
+* cd into project folder
+* Go to live server
 
 ## Live link
 https://ckmwaa.github.io/Personal-Portfolio/
